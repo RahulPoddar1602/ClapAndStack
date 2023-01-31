@@ -103,7 +103,7 @@ body{
   z-index: 1111;
 }
 canvas {
-  display: none;
+  /* display: none; */
   position: absolute;
   top: 50px;
 }
